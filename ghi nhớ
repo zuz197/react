@@ -1,0 +1,8 @@
+| Khái niệm | Ý nghĩa chính                                  |
+| --------- | ---------------------------------------------- |
+| JSX       | Viết HTML trong JavaScript                     |
+| Component | Giao diện chia thành các khối nhỏ              |
+| Props     | Truyền dữ liệu từ cha → con                    |
+| State     | Quản lý dữ liệu nội bộ, có thể thay đổi        |
+| useState  | Hook để dùng state trong function component    |
+| useEffect | Hook chạy tác vụ phụ như fetch API, hẹn giờ... |
