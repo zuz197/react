@@ -6,3 +6,15 @@
 | State     | Quản lý dữ liệu nội bộ, có thể thay đổi        |
 | useState  | Hook để dùng state trong function component    |
 | useEffect | Hook chạy tác vụ phụ như fetch API, hẹn giờ... |
+
+
+
+
+
+| Thư mục       | Vai trò                           |
+| ------------- | --------------------------------- |
+| `public/`     | HTML gốc + file tĩnh              |
+| `src/`        | Toàn bộ mã nguồn React            |
+| `components/` | Component con có thể tái dùng     |
+| `pages/`      | Các màn hình chính trong app      |
+| `services/`   | Gọi API hoặc xử lý logic phức tạp |
